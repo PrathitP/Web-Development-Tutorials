@@ -1,0 +1,12 @@
+Shortcuts for Windows...
+
+1. ctrl + shift + p =======> To open the command Palette.
+ under this when we type ">" it can open list of extensions and interpreter for programming.
+2. ctrl + , ======> It helps us to open the setting.
+3. ctrl + shift + ~ =======> It opens up the terminal .
+4. ctrl + w =====> Close the opened file/Tab.
+5. ctrl + left arrow ====>moves word by word towards left
+6. alt + up arrow =====> it will move line to up and above line below ,basically interchange above
+7. ctrl + alt + down arrpw ======> It will help us make multiple cursors below.
+8. ! ====>Produces boilercode for the Html code
+9.
